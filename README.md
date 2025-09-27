@@ -3,11 +3,17 @@ Drive : https://drive.google.com/drive/folders/1hgGW6xAjv8CSNO9gv5dJ8gqWgXaoSBrJ
 Completed
 
 Create note: title (required), content (optional)
+
 List notes: paginated list (default 10/page) with optional filters: search q (matches title/content)
+
 Update note: edit any fields of a note
+
 Delete note: soft delete (don’t delete the record from DB)
+
 View note: fetch single note by id
+
 Bonus (optional): bulk delete; keyboard shortcut to create note
+
 TechStack: React + Tailwindcss, NodeJs + Express.Js, Prisma + PostgreSQL
 
 <img width="1193" height="666" alt="Screenshot 2025-09-28 at 2 08 43 AM" src="https://github.com/user-attachments/assets/f5bc0330-82ca-4cbc-ba94-e8efe4ae68a0" />
